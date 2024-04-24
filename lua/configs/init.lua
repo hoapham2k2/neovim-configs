@@ -33,7 +33,7 @@ vim.opt.autoindent=true
     linebreak: if true, long lines are wrapped at a character in 'breakat'
     showbreak: string to put at the start of wrapped lines
     showmatch: if true, briefly jump to the matching bracket when inserting a closing bracket
-]]--
+]]--    
 vim.opt.wrap=true
 vim.opt.linebreak=true
 vim.opt.showbreak='↪ '
